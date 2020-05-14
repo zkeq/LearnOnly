@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>网易云音乐打卡_网易云音乐一键听歌300首_网易云音乐刷等级</title>
+  <meta name="keywords" content="网易云音乐刷等级,网易云音乐打卡,网易云音乐听歌300首">
+  <meta name="description" content="本站是能提供用户一键刷网易云音乐当天听不同歌300首达到刷等级的目的。">
+  <script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+  <link href="//cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="//cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+  <link rel="stylesheet" href="css/oneui.css">
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="shortcut icon" href="img/NetEase_music.png">
+  <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <!--[if lt IE 9]>
+    <script src="http://libs.useso.com/js/html5shiv/3.7/html5shiv.min.js"></script>
+    <script src="http://libs.useso.com/js/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <img style="background: linear-gradient(to bottom,	#FFFAF0,#EEA2AD);"  class="full-bg full-bg-bottom" ondragstart="return false;" oncontextmenu="return false;">
+ <br/>
+<div class="col-xs-12 col-sm-10 col-md-8 col-lg-5 center-block" style="float: none;">
+<div class="panel panel-default">
+	<div class="panel-body" style="text-align: center;">
+		<img src="img/logo.png" style="max-width: 100%;">
+	</div>
+</div>
+<div class="panel panel-info">
+<div align="center" class="list-group-item reed" style="background:#EE3B3B;"><h2 class="panel-title"><font size=2 color="#fff"><b>暂时只支持手机号登录~</b></font></h2>
+	</div>
+	<div class="panel-body" style="text-align: center;">
+            <div id="load" class="alert alert-danger" style="display:none;"></div>
+			<div id="login" class="list-group-item">
+			<div class="form-group">
+			<div class="input-group"><div class="input-group-addon">手机号码</div>
+			<input type="text" id="uin" value="" class="form-control" placeholder="请输入您的网易云音乐手机号" onkeydown="if(event.keyCode==13){submit.click()}"/>
+			</div></div>
+			<div class="form-group">
+			<div class="input-group"><div class="input-group-addon">登录密码</div>
+			<input type="password" id="pwd" value="" class="form-control" placeholder="请输入您的网易云音乐密码" onkeydown="if(event.keyCode==13){submit.click()}"/>
+			</div></div>			
+			<button type="button" id="submit" class="btn btn-danger btn-block" style="background:#FF6A6A;">立即登录</button>
+			<br/>
+			</div>
+		</div>
+	</div>
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne" style="background:#EE3B3B;">
+      <h4 class="panel-title" align="center">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <font size=2 color="#fff"><i class="fa fa-volume-up"></i>&nbsp;&nbsp;<b>常见问题</b></font> 
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+<p>Q:我的账号安全吗？</p>
+<p>A:密码是计算MD5上传到服务器，谁都看不到密码。</p><hr/>
+<p>Q:这个程序是干嘛的？</p>
+<p>A:网易云一键签到，一键听满300首歌，刷等级。</p><hr/>
+<p>Q:使用这个会影响我的听歌风格吗？</p>
+<p>A:刷的歌都来自您的每日推荐歌单，不影响。</p><hr/>
+<p>Q:为什么我关注了陌生人？</p>
+<p>A:关注的是作者，仅用作统计，介意可以取关。</p><hr/>
+<p>Q:为什么点击刷歌打卡只刷了一部分？</p>
+<p>A:这是网易云官方问题,您可以多点击几次。</p>
+      </div>
+    </div>
+  </div>
+  </div>
+<script src="//lib.baomitu.com/layer/2.3/layer.js"></script>
+<script type="text/javascript">
+layer.msg('注意：本站仅供自娱自乐<br>切勿用于非法用途、利益交易<br>本站不为您的使用方式做任何责任<br>如果本站侵犯了您的权益<br>请联系邮箱xxx@xxx.xxx',{time:6000, shift: 6},function(){});
+</script>
+<script src="js/ajax.js"></script>
+</body>
+</html>
