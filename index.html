@@ -1,81 +1,92 @@
-<!DOCTYPE html>
-<html lang="zh-cn">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>网易云音乐打卡_网易云音乐一键听歌300首_网易云音乐刷等级</title>
-  <meta name="keywords" content="网易云音乐刷等级,网易云音乐打卡,网易云音乐听歌300首">
-  <meta name="description" content="本站是能提供用户一键刷网易云音乐当天听不同歌300首达到刷等级的目的。">
-  <script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
-  <link href="//cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
-  <link href="//cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
-  <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
-  <link rel="stylesheet" href="css/oneui.css">
-  <link rel="stylesheet" href="css/common.css">
-  <link rel="shortcut icon" href="img/NetEase_music.png">
-  <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <!--[if lt IE 9]>
-    <script src="http://libs.useso.com/js/html5shiv/3.7/html5shiv.min.js"></script>
-    <script src="http://libs.useso.com/js/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
-</head>
-<body>
-  <img style="background: linear-gradient(to bottom,	#FFFAF0,#EEA2AD);"  class="full-bg full-bg-bottom" ondragstart="return false;" oncontextmenu="return false;">
- <br/>
-<div class="col-xs-12 col-sm-10 col-md-8 col-lg-5 center-block" style="float: none;">
-<div class="panel panel-default">
-	<div class="panel-body" style="text-align: center;">
-		<img src="img/logo.png" style="max-width: 100%;">
-	</div>
+<!doctype html>
+<html lang="zh-CN">
+<title>LearnOnly导航</title>
+<meta charset="utf-8">
+<meta content="width=device-width,initial-scale=1,maximum-scale=1"name=viewport>
+<meta content="jsthon" name="author">
+<meta content="一个极简的网址导航，聚合了多种搜索引擎，收录了各种常用网站。分类合理，内容齐全。处处细微，一切都是理所当然。" name="description">
+<meta content="LearnOnly导航,导航,网址导航,导航网站,常用网站,常用网址,大学生导航,程序员导航,设计导航,学习导航" name="keywords">
+<link href="static/css/style.css"rel=stylesheet>
+<script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;ga('create','UA-69454720-6','auto');ga('send','pageview');</script>
+<script async src='static/js/analytics.js'></script>
+<body style="background:#fff">
+<nav id="site-nav">
+<div class="float-left" id="nav-close">
 </div>
-<div class="panel panel-info">
-<div align="center" class="list-group-item reed" style="background:#EE3B3B;"><h2 class="panel-title"><font size=2 color="#fff"><b>暂时只支持手机号登录~</b></font></h2>
+<ul class="float-right" id="menu">
+	<li><a href="/">首页</a>
+	<li class="has-submenu"><a href="#">社交</a>
+	<ul class="submenu">
+		<li><a href="https://www.baidu.com/" target="_blank">Baidu</a>
+		<li><a href="https://weibo.com/" target="_blank">Weibo</a>
+		<li><a href="https://zhuanlan.zhihu.com/" target="_blank">Zhihu</a>
+		<li><a href="https://github.com/" target="_blank">GitHub</a>
+	</ul>
+</ul>
+</nav>
+<div id="site-main">
+	<div id="main-overlay">
 	</div>
-	<div class="panel-body" style="text-align: center;">
-            <div id="load" class="alert alert-danger" style="display:none;"></div>
-			<div id="login" class="list-group-item">
-			<div class="form-group">
-			<div class="input-group"><div class="input-group-addon">手机号码</div>
-			<input type="text" id="uin" value="" class="form-control" placeholder="请输入您的网易云音乐手机号" onkeydown="if(event.keyCode==13){submit.click()}"/>
-			</div></div>
-			<div class="form-group">
-			<div class="input-group"><div class="input-group-addon">登录密码</div>
-			<input type="password" id="pwd" value="" class="form-control" placeholder="请输入您的网易云音乐密码" onkeydown="if(event.keyCode==13){submit.click()}"/>
-			</div></div>			
-			<button type="button" id="submit" class="btn btn-danger btn-block" style="background:#FF6A6A;">立即登录</button>
-			<br/>
+	<header id="site-header">
+	<div class="container">
+		<div class="float-left" id="header-logo">
+			<a href="/"><img src="/static/fonts/method-draw-image.svg" height="40" width="50" /></a>
+			<a href="/"><img src="/static/fonts/method-draw-image2.svg" height="80" width="100" /></a>
+		    <a href="/"><img src="/static/fonts/method-draw-image3.svg" height="80" width="100" /></a>
+
+
+		</div>
+		<div class="float-right" id="burger">
+			<div id="burger-icon">
+				<span class="icon-bar top"></span><span class="icon-bar middle"></span><span class="icon-bar bottom"></span>
 			</div>
 		</div>
 	</div>
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne" style="background:#EE3B3B;">
-      <h4 class="panel-title" align="center">
-        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          <font size=2 color="#fff"><i class="fa fa-volume-up"></i>&nbsp;&nbsp;<b>常见问题</b></font> 
-        </a>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-      <div class="panel-body">
-<p>Q:我的账号安全吗？</p>
-<p>A:密码是计算MD5上传到服务器，谁都看不到密码。</p><hr/>
-<p>Q:这个程序是干嘛的？</p>
-<p>A:网易云一键签到，一键听满300首歌，刷等级。</p><hr/>
-<p>Q:使用这个会影响我的听歌风格吗？</p>
-<p>A:刷的歌都来自您的每日推荐歌单，不影响。</p><hr/>
-<p>Q:为什么我关注了陌生人？</p>
-<p>A:关注的是作者，仅用作统计，介意可以取关。</p><hr/>
-<p>Q:为什么点击刷歌打卡只刷了一部分？</p>
-<p>A:这是网易云官方问题,您可以多点击几次。</p>
-      </div>
-    </div>
-  </div>
-  </div>
-<script src="//lib.baomitu.com/layer/2.3/layer.js"></script>
-<script type="text/javascript">
-layer.msg('注意：本站仅供自娱自乐<br>切勿用于非法用途、利益交易<br>本站不为您的使用方式做任何责任<br>如果本站侵犯了您的权益<br>请联系邮箱xxx@xxx.xxx',{time:6000, shift: 6},function(){});
-</script>
-<script src="js/ajax.js"></script>
-</body>
-</html>
+	</header>
+	<div class="headline search-bar">
+		<div class="container">
+			<div class="headline-content">
+				<div class="search-tab">
+					<span class="lookao">购物</span><span class="baidu">百度</span><span class="google">谷歌</span><span class="bing">必应</span><span class="image">图片</span><span class="scholar">多吉</span>
+				</div>
+				<form class="search-form" target="_blank">
+					<input class="float-left search-keyword"type=search autocomplete=off autofocus><input class="float-right" type="submit" value="搜索">
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="works">
+		<div class="work-link">
+			<div class="container">
+				<div class="tab">
+					<span class="common">常用</span><span class="amuse">娱乐</span><span class="study">学习</span><span class="life">生活</span><span class="tech">技术</span><span class="design">设计</span><i class="icon-cog" id="setting-icon"></i>
+				</div>
+				<div class="info">
+				</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	<footer id="site-footer">
+	<h5><a href="http://www.wylkyj.com/stuquery/">五岳联考成绩查询</a></p></h3>
+
+	<div class="container">
+		<div class="copy">
+			© <span id="current-year">
+			<script>document.getElementById("current-year").innerHTML=(new Date).getFullYear()</script>
+			</span>
+			&nbsp;learnOnly导航<br>
+			页面地址：www.learnonly.xyz<br>
+			<a href="https://www.gov.cn/" target="_blank">备案号正在申请中···</a>
+		</div>
+		<div class="social">
+			<a href="https://weibo.com/" target="_blank" class="social-link"><i class="icon-weibo"></i></a>
+      <a href="https://zhuanlan.zhihu.com/" target="_blank" class="social-link"><i class="icon-zhihu"></i></a>
+      <a href="https://github.com/" target="_blank" class="social-link"><i class="icon-github-circled"></i></a>
+      <a href="/" target="_blank" class="social-link"><i class="icon-home"></i></a>
+		</div>
+	</div>
+	</footer>
+</div>
+<script src="jquery-migrate-1.2.1.min.js"></script>
+<script src="static/js/index.js?!"></script>
