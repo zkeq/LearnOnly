@@ -10,7 +10,7 @@ o.getScript(s,function(){var t=univ_list.link,i="<ul><li>校园</li>"
 o.each(t,function(o,t){i+='<li><a href="'+t.url+'" target="_blank">'+t.name+"</a></li>"}),i+="</ul>",o(".work-link").css("opacity","1").find(".info").hide().html(a).fadeIn(200).find("ul:nth-child(6)").html(i)}).fail(function(){var t="<ul><li>校园</li><li>暂未收录</li></ul>"
 o(".work-link").css("opacity","1").find(".info").hide().html(a).fadeIn(200).find("ul:nth-child(6)").html(t)})}else o(".work-link").css("opacity","1").find(".info").hide().html(a).fadeIn(200)}function i(o){var t={bkgd:"#ededed",srch:"baidu",schl:"0",prov:"1",univ:"1001"}
 return Cookies.get(o)||t[o]}function e(o,t,i){Cookies.set(o,t,{expires:i||3650})}function n(t){o("body").css("background",t)}function a(t){if(o(t).addClass("active").siblings(".active").removeClass("active"),o(".search-hidden").remove(),o(t).hasClass("baidu"))o(".search-form").attr("action","https://www.baidu.com/s"),o(".search-keyword").attr({name:"word",placeholder:"百度一下，你就知道"})
-else if(o(t).hasClass("google"))o(".search-form").attr("action","https://mengso.com/search"),o(".search-keyword").attr({name:"q",placeholder:"萌搜 为小众而搜索"})
+else if(o(t).hasClass("google"))o(".search-form").attr("action","https://www.google.com.hk/search"),o(".search-keyword").attr({name:"q",placeholder:"Google服务，请科学访问。"})
 else if(o(t).hasClass("bing"))o(".search-form").attr("action","https://cn.bing.com/search"),o(".search-keyword").attr({name:"q",placeholder:"微软 Bing 搜索"})
 else if(o(t).hasClass("image")){o(".search-form").attr("action","https://cn.bing.com/images/search"),o(".search-keyword").attr({name:"q",placeholder:"海量图片搜索"})
 var i=new Image
