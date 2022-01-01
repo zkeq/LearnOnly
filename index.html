@@ -7,6 +7,7 @@
 <meta content="一个极简的网址导航，聚合了多种搜索引擎，收录了各种常用网站。分类合理，内容齐全。处处细微，一切都是理所当然。" name="description">
 <meta content="LearnOnly导航,导航,网址导航,导航网站,常用网站,常用网址,大学生导航,程序员导航,设计导航,学习导航" name="keywords">
 <link href="static/css/style.css"rel=stylesheet>
+<link href="static/css/suggestion.css"rel=stylesheet>
 <script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;ga('create','UA-69454720-6','auto');ga('send','pageview');</script>
 <body style="background:#fff">
 <nav id="site-nav">
@@ -50,6 +51,11 @@
 				</div>
 				<form class="search-form" target="_blank">
 					<input class="float-left search-keyword"type=search autocomplete=off autofocus><input class="float-right" type="submit" value="搜索">
+					<input class="search-input-text search-keyword" type=search autocomplete=off autofocus><input class="float-right" type="submit" value="搜索">
+					<div class="suggest">
+						<ul id="search-result">
+						</ul>
+					  </div>
 				</form>
 			</div>
 		</div>
@@ -74,9 +80,10 @@
 			© <span id="current-year">
 			<script>document.getElementById("current-year").innerHTML=(new Date).getFullYear()</script>
 			</span>
-			&nbsp;learnOnly导航<br>
+			&nbsp;learnOnly导航
+			<br>
 			页面地址：www.learnonly.xyz
-                        <br>
+                <br>
 		        <a href="https://icp.gov.moe" target="_blank">萌ICP备 </a> <img src="/static/fonts/icon120.png"  alt="萌ICP备" width="32" /> <a href="https://icp.gov.moe/?keyword=20210592" target="_blank"> 20210592号</a>
 		</div>
 		<div class="social">
@@ -90,3 +97,5 @@
 </div>
 <script src="jquery-migrate-1.2.1.min.js"></script>
 <script src="static/js/index.js?!"></script>
+<script src="static/js/suggestion.js"></script>
+
