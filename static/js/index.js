@@ -847,8 +847,11 @@ var _hmt = _hmt || [];
       o(".search-form").attr("action", "https://fsou.cc/search"),
         o(".search-keyword").attr({ name: "q", placeholder: "F 搜" });
     else if (o(t).hasClass("image")) {
-      o(".search-form").attr("action", "https://dict.youdao.com/result"),
-        o(".search-keyword").attr({ name: "lang=en&word", placeholder: "有道词典翻译" });
+      o(".search-form").attr("action", "https://www.iciba.com/word"),
+        o(".search-keyword").attr({
+          name: "w",
+          placeholder: "请输入您要翻译的单词",
+        });
       var i = new Image();
       (i.src = "https://images.google.com/favicon.ico?" + Date.now()),
         (i.onload = function () {
