@@ -844,8 +844,8 @@ var _hmt = _hmt || [];
           placeholder: "Google服务，请科学访问。",
         });
     else if (o(t).hasClass("bing"))
-      o(".search-form").attr("action", "https://cn.bing.com/search"),
-        o(".search-keyword").attr({ name: "q", placeholder: "微软 Bing 搜索" });
+      o(".search-form").attr("action", "https://fsou.cc/search"),
+        o(".search-keyword").attr({ name: "q", placeholder: "F 搜" });
     else if (o(t).hasClass("image")) {
       o(".search-form").attr("action", "https://cn.bing.com/images/search"),
         o(".search-keyword").attr({ name: "q", placeholder: "海量图片搜索" });
