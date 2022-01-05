@@ -838,7 +838,7 @@ var _hmt = _hmt || [];
           placeholder: "百度一下，你就知道",
         });
     else if (o(t).hasClass("google"))
-      o(".search-form").attr("action", "https://www.google.com.hk/search"),
+      o(".search-form").attr("action", "https://www.google.com/search"),
         o(".search-keyword").attr({
           name: "q",
           placeholder: "Google服务，请科学访问。",
