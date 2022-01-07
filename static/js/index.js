@@ -113,7 +113,7 @@ var comm_list = [
           { name: "必应", url: "https://cn.bing.com/" },
           {
             name: "有道词典",
-            url: "http://dict.youdao.com/w/%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E7%BD%91%E9%A1%B5%E7%89%88/",
+            url: "https://dict.youdao.com/result?word=%E5%8F%AF%E4%BB%A5%E7%9C%8B%E8%A7%81&lang=en",
           },
           { name: "海词词典", url: "http://dict.cn/" },
           { name: "必应词典", url: "https://cn.bing.com/dict" },
