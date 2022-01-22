@@ -845,7 +845,7 @@ var _hmt = _hmt || [];
         });
     else if (o(t).hasClass("bing"))
       o(".search-form").attr("action", "https://fsou.cc/search"),
-        o(".search-keyword").attr({ name: "q", placeholder: "F 搜" });
+        o(".search-keyword").attr({ name: "q", placeholder: "好像不能用了..先观察观察" });
     else if (o(t).hasClass("image")) {
       o(".search-form").attr("action", "https://www.iciba.com/word"),
         o(".search-keyword").attr({
