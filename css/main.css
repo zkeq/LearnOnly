@@ -50,6 +50,7 @@ body {
   margin: 0 10px;
   border-bottom: 2px solid transparent;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .search-panel > li.active {
@@ -102,7 +103,8 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 20px;
-  margin-top: 40px;
+  position: relative;
+  /* margin-top: 40px; */
 }
 
 .item-title {
@@ -123,6 +125,9 @@ dd {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+dd:hover {
+  text-overflow: initial;
+}
 
 .item-link {
   white-space: nowrap;
@@ -138,12 +143,12 @@ a {
 a:hover {
   color: #fff;
   background-color: #000;
-
   /* text-decoration: underline; */
 }
 img {
   /* 行内 */
   display: inline-block;
+  padding: 2px;
 }
 p {
   max-width: 340px;
@@ -153,11 +158,12 @@ p {
   display: inline-block;
   padding: 5px;
 }
-/* .main dl {
+.main dl {
   position: absolute;
-  border: 1px solid red;
-  background-color: #fff;
-} */
+  /* border: 1px solid red; */
+  background-color: #f7f7f7;
+  /* background-color: #fff; */
+}
 
 *::selection {
   background:rgb(0, 0, 0);
@@ -170,4 +176,76 @@ p {
 *::-webkit-selection {
   background:rgb(0, 0, 0);
   color:#ffffff;
+}
+#header-logo {
+  margin-top: 61px;
+}
+.float-left {
+  float: left;
+}
+#book {
+  margin-bottom: 19px;
+}
+#right{
+  margin-left: -10px;
+}
+/* 媒体查询小于500px */
+@media screen and (max-width: 500px) {
+  #header {
+    padding: 30px 40px;
+  }
+  #app {
+    margin: 0 auto;
+  }
+  .search-panel {
+    display: flex;
+    margin-top: 30px;
+  }
+  .search-panel li{
+    overflow: hidden;
+    margin: 0;
+  }
+  .float-left {
+    float: none;
+  }
+}
+@media screen and (max-width: 1000px) {
+  #header {
+    padding: 50px 50px;
+  }
+  #app {
+    margin: 0 auto;
+  }
+  .search-panel {
+    display: flex;
+    margin-top: 30px;
+  }
+  .search-panel li{
+    overflow: hidden;
+    margin: 0;
+  }
+  .float-left {
+    float: none;
+  }
+  #header-logo {
+    margin-top: 0;
+}
+}
+
+.float-left a {
+  background-color: #fff;
+}
+.suggestion {
+  position: absolute;
+  border: 1px solid red;
+  background-color: #fff;
+  color: #000;
+  z-index: 1;
+  display: none;
+}
+ul {
+  /* 去掉默认样式 */
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
