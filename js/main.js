@@ -975,20 +975,11 @@ let data = {
                     "href": "http://www.nxflv.com/",
                     "item_title": "诺讯智能解析系统 - 全网视频在线解析 - 无广告解析接口搭建 - 交流QQ群:2577808"
                 },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABsUlEQVQ4jXWSPWtUQRSG3+fM3exHEsREJGpjOoOINtuJhZD8BEnr//AnWKaxsbMWaxW0sLGzEVELiUQhkKCEdZO7d+a1uDdLUmSKGZiZ5zznHYaTwWtJkmwDsn1SlGAhVCzQ+RHdagHOxUE8uMz1vqfZIPsCANlWqHp+u3o3rt6P2VjSLCsuMkiuC2uD2L4miPVRbK445zPn5wHb9MO/jvOznzpqyo9peXNASiryvCvbcwBQYw2Tv03yi9+z+x/9eaJeUjFnbtMBlktRP6qX93pPb3F1wXv/GCVsQRvd7au4BUKuS9xdjoerzrZMJFtu69bFV3qxveY6K1oAITxIzIpCVOEi2QRUuOQYX5LkUuC0JcnCRgLXBZmEp9mTjODOUnl7SCQXVa1BEgGBbJartLNRXu2zX6sxNwc+mHlvyrCiA9xNlpQdm6vFYn0Yj29oFNo9zju79AJZ0BksR0BQAqTYWo2tFTfCmj36VL4exeKCG8OpAeGT4sNayCCLHv4yaZ5894c/DHpuDEii/a22SWiYukiWkCdZ04Z+ErQ70twAztbfRvNMkhIsVs6Su/KS/gNWh+vUbnZvZgAAAABJRU5ErkJggg==",
-                    "href": "http://www.javlibrary.com/",
-                    "item_title": "JavLibrary.com - Japanese Adult Video Library"
-                },
+    
                 {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABP0lEQVQ4jY3RsUocYRTF8f+5M7sbM4XJSiApQ1IJaitaLjbbpAukiLExTYpAHiVdfInUFla2toKtr6DgoDPfPTYSdlkHctvv/OC758rfGRgBxiAkKchCOobiAFhIEZTkridh8qIeDAsMCtrCdIPdQ2/P9ebDMLBR+L6wc6DDP2y8x0ZaAkZERSaYaqT2ga2Zfvxl3JBFAMsAobangkq+feD1K3357XGj7Imn5CKQOrP32ftHGr3k/MSjNb3bJMu/9AKIirYwO+briWxL+rhPewNWLDVZAyhIu5kw+ymgdIpAQTNd7SKsIPFdorGaqcFVTdRI2Kugpksmjebf2PnktXVAejoBeq7u/PU2r85sO9POzLTT6eyLM70y5OWpbZfOpV98KN29s6wCpS0XCGvoE8tLA1Y8s90Q0PWFkPhf8ghEgb0PDsbHlwAAAABJRU5ErkJggg==",
                     "href": "https://lanzoux.com/b00neixyd",
                     "item_title": "PowerAMP"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABsUlEQVQ4jXWSPWtUQRSG3+fM3exHEsREJGpjOoOINtuJhZD8BEnr//AnWKaxsbMWaxW0sLGzEVELiUQhkKCEdZO7d+a1uDdLUmSKGZiZ5zznHYaTwWtJkmwDsn1SlGAhVCzQ+RHdagHOxUE8uMz1vqfZIPsCANlWqHp+u3o3rt6P2VjSLCsuMkiuC2uD2L4miPVRbK445zPn5wHb9MO/jvOznzpqyo9peXNASiryvCvbcwBQYw2Tv03yi9+z+x/9eaJeUjFnbtMBlktRP6qX93pPb3F1wXv/GCVsQRvd7au4BUKuS9xdjoerzrZMJFtu69bFV3qxveY6K1oAITxIzIpCVOEi2QRUuOQYX5LkUuC0JcnCRgLXBZmEp9mTjODOUnl7SCQXVa1BEgGBbJartLNRXu2zX6sxNwc+mHlvyrCiA9xNlpQdm6vFYn0Yj29oFNo9zju79AJZ0BksR0BQAqTYWo2tFTfCmj36VL4exeKCG8OpAeGT4sNayCCLHv4yaZ5894c/DHpuDEii/a22SWiYukiWkCdZ04Z+ErQ70twAztbfRvNMkhIsVs6Su/KS/gNWh+vUbnZvZgAAAABJRU5ErkJggg==",
-                    "href": "http://www.javlibrary.com/cn/publictopic.php?id=13483",
-                    "item_title": "请使用新的永久入口网站 - JAVLibrary"
                 },
                 {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABpUlEQVQ4jWP8//8/AymACZfE8V1796zf+OvHTzRxFmTO75+/WNnZGBgYvn/5vKy76v1ndkkZWW1TI+w27N2wOUzf4trJvQwMDNdPLIzMDSlpcfv46ta9qzf+/fsHV8YI98Oinglvnr8yNPnFy3lFSvIGrwDXtRsmaxb8+/vnn7GjdXRRNrqT4koKrh+d8uNVm66ZDAuHBgMTm9gvX16Bgyd3HuAXFsTih4tHjx/bfJKZ2V5K/Zu4NBMDA8P/X0fLpnZtnLdEWVsTix/+/P67YurBo9tfb1rOysDwn+H/Hynxy8/P2fJwXNG3MseigVeAf8n5A58+vVfSlP316dmV4zePHnx+4q6XZ9IESNChe/r1sxefP3z8+vHDt5czzr/9femrObdu0NMPXwuVGU31VLH4QVRKQlRKgoGBgYHB/PeWOV+eX2L/sNrkwSwe9Y3I8cDwHxu4e3HLrydaPx8pPj7I+vzhfWQplJhGAFaV/hYxecnTj1552Qc/lJBTwOIkZHBq3/7TR78+kvR49vDef6bNZo72WDyNBv78+cPCgsU4nBpwAQD8L9qeohDIRgAAAABJRU5ErkJggg==",
@@ -1036,11 +1027,6 @@ let data = {
                     "item_title": "JS获取m3u8 · N_m3u8DL-CLI文档"
                 },
                 {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACGklEQVQ4jYWRXUiTcRTGn+f/vqOxGVrYpiZ1URLLmBvpBK+cQUQXVkJfCBV9gVC7iW6CoK6CLoIuKnFBUF2I24U3EYFrVEIhby2UOYKQKGmFUUNi2j7e08VyzbeNzt05//M75znPn/hPSHTnfggOQBDmodeT1ndVDTIMw2Yk34cMw3BAihkQA1DIV+vVrYX42SuNcKyPANIrjoYeaLYxFIr78IMz1QawMplo8nWRjDouDLXa9u4qqRPzUmd727VaJ5ZPiLn9RxX5nMCm5ZthFmdSJkTyUPrnWrAAJAA8dftPQiFcOZDrGr46R28fDng9z/4Bxzo2gloIkIQec+3YAoVbWG2okcssDAS9nk9VV5twQuMRUFGnZgsBsFeYEl2j2Y/1zSeWrJwxO3cZMIHU4D1I4Q5ycpfxZv+sAJ4/4t4F023tRKRohaempgdVnfMBAIKMoN5+orOlJasE0lreLuplNTi+wef7efz8SHE6JaU9clAy2X4AUAQzf101PVb4idvrMnWOI7PoyF68yvyjCZPgw67tW0cBQJnCV+VusjvW1HFuJZ1s3LZWpzZOYDMASKHApRvDicXr98+UkZjb20elxVatFSQJzAnRDcBVYfACRALBL28/VNSAeLM/LMBpq3xLLCtwd2/6zYvKYunv0/VDBIYBSA34m6L0W+GygpWIuXw9VDwFSABEHcCPJB7/UrmRPfPJ79Um/waAxbX8UiaTrAAAAABJRU5ErkJggg==",
-                    "href": "https://cili.st/",
-                    "item_title": "无极磁力官方网址发布平台 - ØMagnet 无极磁链"
-                },
-                {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC7UlEQVQ4jW2TS2hdZRSFv/3/59zzuK82j5vbRE2NaRUhxqIBazJSi2akWIsgdKQDEZ2IAxEnTnRQHDlwYnyAdSIqBUGxEnxACYQqQtSQSNKa2NjUpGnvzX2dc/7tIBZJdM323qwPFqwNu2X4r/buds2y5+CAnM0feNJa/xjqhsH4CH8gnOt06h/R3Fz9x6f/AyrfkyvdMhtGAxqZXo3imzWKBzS0PRqYXg2Cvj/j3luf3mvcofn7juSi0lnbaHdrf1+iR8fEJYmQgZc6LZYL2js07Oeb2yx8+vFLW8tzbwJyI0+UC4vv2Ua7W8dGO9nxRzx3Zd0SR4ZKr2Fi3GtcvOBtzc2nnUq/a23W3sArPwioAdTmqydMJxvVQweTbOJu33v7A7GjIwQ3DYp29Uj6w6ymI0fk+m/zdm3+Z+caLT8X5p8HIgNgrf+wZOrcxF3IF9PgRLPFRWntK2DencIsrUh2dVPdE49LrdE2Jk1UjHcfcMdOhNQNSSmWbPuaVDfqEvfsl+jzzzBJC/PMSczSL0hlv7QvX9G0XhcKBUHpxkaHDSBY42mjJd5DI7I+eS/Ny3+RTD5Gdux+Oge66LzyMjYXYLY2QFLUWkSdgIkNoFizqq3ESb2u6TsvaPvMKW2efp3s/Q+pvPgqwbffk5RCldUV0a6SSn1b1Zhtsu0NA+Cy7JzkfMPpb9RbW0UnR5CFnzSY+oR2sQc7c17ta6dE7zyszP3qxBhcliwCyxbAddJlL188ycWNIuubmT06aLltQCSM1U3/iF8qSvrUo+rW1tT7blbJ523avDqlrnPW7hQpqakGazYfHef8BcPMfCJpS9zYIdEoptNfVV1Yct70DFIseWnr+tdZcu0t4PddVfaDynNBebAW+QMaSkXDfL8GfcMaxgMaeVUNywfVC7q/BB4A8nufaafSXnE8FxWeFeOPk2oVdYKRmiNbyFq1r1xaPwMsAo29gH8h4AG3Y4MhMDFZcwtYAS4BNSC7Yfgbm/hD8Ndwu3EAAAAASUVORK5CYII=",
                     "href": "http://tool.liumingye.cn/music/?page=audioPage&type=migu&name=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7",
                     "item_title": "▶ 星辰大海 - 黄霄雲 - 無料の音楽ダウンロード - 무료 음악 다운로드 - Free Mp3 Download"
@@ -1064,16 +1050,6 @@ let data = {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADIUlEQVQ4jT2SPUgzWRiFz3vvdUyM0aix0cooygdiGgWxSRe2U+xsFuwMHwiL4LJ2FnbuLsqyorikFewVQRTBIk0gBvyBCJJkQpRgkeBkkpnc+26xm+/AqQ48cOChq6urUDKZ/BPAz1rrHq01AWAppWg2m3AcB1JKEJExxhARsWVZLSL65/Hx8Veq1+t/nZ+ff89ms6a/vx9PT0/kui7i8Tglk0ksLCx0IWyMISGEAYDBwUHhOM4hVavVVjqdVjs7OwSAEokEhBC4vb0lKSVOTk6wsrKCRqPBUkr8HyYibrfbPp6fn02xWNTRaNRIKc3l5aXpdDo8OzvLAPjbt29cLpe5Uqmwbdum23K5rPP5vBFSSjiOQ77vk9YatVqNpJQ8Pz8PAKhWq6jX61BKdS9ACEFKKZJSQhERAQAzMwCSUnKn06Hh4WEQEYwxsCwLkUiEtNbcbrfJ87wfMBUMBrnVaqHdbpOUkqPRKCmlkM/nwcyIx+MIBoO4vr6G7/s0NTXF4+PjRETcaDSAt7c3TqVSDIABcCKR4PX1dQbAY2NjvLe3x/F4/Mfe29vLi4uLnMlkuFQqsfA8D1prrK2tYXNzE6FQCPl8HltbW9jf38fx8TEeHh6wu7uLi4sLzMzMIJPJ4OzsDKFQCHh5eTGO45hms8me5xnXdblerzMz8/b2NgPg0dFRLhQK3Gw2OZvNmsnJST49PTW2bRvlui59fHwAALdara6F5HkeXl9fIYSA4zioVCpQSvHIyAjd39+zlJJs24bwPI87nQ77vk9CCKb/nGVjDKanp2GMgeu6ODw8ZK01KaX45uYGuVyOhRBMd3d3ZmhoiJmZpJQQQsDzPOrp6WHXdWl1dRWlUokBUCwW44GBAeRyOUqn02Zubo7k8vLyb8FgUDIzujIppaC1pkAggKWlJby/v9Pn5yfXajVYloWNjQ1OJBIol8ttOjg4+CMWi/0SDoeNMQZEREIIEBE8z6NAIAClFNdqNTAzIpEIh8Nh2LYtCoXC7wRgPJVK/T0xMfFTX1+f6hrWhRljAIAtywIAaK356+vLLxaLl0dHR9//BaKt3WKz1Zo1AAAAAElFTkSuQmCC",
                     "href": "http://chaozhuowang.com/2103.html",
                     "item_title": "使用Javascript获取m3u8-超卓网"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACA0lEQVQ4jc2SP2gTYRjGn++7y12Sy5E0tCn4BwcdShUKWQpSKi6ddUgp7mLRiAVxc/hc7BBwcFDBQRCnRBBHQegWiBSbDlL/DIkmpP45k5y5y90l332fg1jSVnEq+Fte3vflfXngeYD/DbKn/hM62rAa05deLR2FHJkxUMi/P9xZsDWmtlPWaojwWJzG1gozd+5DgoCMvtt1JwGAMMkoI0zk1/PneBiQB7MPn92oXr8pOJ6aPbNpp+25eTH/duLIxMDX/SDdSuvZqWxrn4J8JX8hqRifhhFZ5yGf1aFYNf4x5yrulUkxWe4M2zPjaqaZUBJbntMp3DvzqAwAKgAsvFgwPHh2RNCEFurn7cB+bXDNT6VSPnWVdVVVBnFqvAslD5tuY86xv9cBlMFAKQDoA11SSqNjxviXiKtvJWny2za3wo7XTXLBT4zRtGVSs93jTiwkIdVIZAMAMA2iAkDUiwYpaqrtwDorEuJ4nCbqh0im0o/4PT/0al97Ld2MJftRojWEpO7nYHsIADkANFfMKaXFUjiQA0WV2odu/MdtJ3AsIal9up99LPpeg0I+Eb6/SZzhS3j8ORHKewAo5SB2fClsssxKdeXupY2Ll69Vr94CAEiQ4pui9isPcldm9rpAAMjl8vLhrmpNTRmnKuwkc/b5zkAxDYJFiN85OAAY/ij1wPgJlRTc9WjrAhUAAAAASUVORK5CYII=",
-                    "href": "https://btu.wtf/",
-                    "item_title": "Hello BTU"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVQ4jZWTParCQBSFz+CgFoYkGCJoITKVexBclOAC3IKFnWV24A5cgK0QUEwsVEQ0YmEx5xUvb1Dyo+/CbYaZb849914gGwrADMAawDPNdXqmcu6/xXwwGLBerxNAUc5zXwohVgDY7/cZRRGllGWQVeZnAAzDkLVajUqpbyBGiRoOh+x2u2y1WtxsNgay2+0+QRQAzFzX5fF4ZLvdpu/73G63rFQqnEwm3O/3rFarRYAZUodpWZaBNJtNxnHMv1gsFkWAtQTQA4AkSaCUQhiGmE6n6HQ6xqDT6VTUtR7w22dDtSyL1+uVWmuj4HA4sNFo5Cl4mhJe07ZtLpdLBkHA8/lMrTUvlwtd182UgNSIQqcdx+H9fqfWmrfbjY7jUAjxZqIqAwCg53l8PB4G8lKOGe15GUAIQc/zmCQJSXI0GuWO9OqTEtu2OR6PKaXMjPJXSlC2TC/xr3X+AblgI7SP3jS+AAAAAElFTkSuQmCC",
-                    "href": "https://sleazyfork.org/zh-CN",
-                    "item_title": "Sleazy Fork - 安全、有用的成人用户脚本大全"
                 },
                 {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADVklEQVQ4jVXTT2gcVRwH8O/vzZs3k53dZDeZhGxt0rQxaRFbmktFoRQ30EPoUUSQ9GbQo9dSxEPppUcVIYKXXEQQbwUjRkEFxRps1TaYpBKzYcNussnuzsybee/NPg/+7ff2PXy/tw/hrxAACwDz869cbh61l7RWLwauOz4+EqAyNrp/cmb2yziWy+/ceevr/2/o74ILFxaDmbmp2zqTS4125gcew3BJQ+scHeni9KkJjAw66X6rt3yQPb6xurIS//NCVxfvFFxuP/aEWOj2Unt6XOe1Z7YcJL9CUoioP4nf9p7KOcpOscDp56363d+b9ZcfrK4kHID1PH7L9QsLqYxVEAi+cH6d++onNDqRTeQOPH+LZsZr/LN128+U0YBY8JzRWwDedK69/v4lh/P3GHImFWdTYUST4kfEcQcyldQ+0LS9HdlwhHCkJ2jnQDCT55bZ/lz1zHOfs6AgloJiwe+zATtdjWl+9jtqtQ5JKEnFRKPfidBqSsraO1RwY5oda9LZatM6/pDvCrHEuStqDmdWIKAzo9sYce5Z3+1Tco+h3SCE5QnMhU10W/uI2a59uvgQmlVoC5M2V7LGhTdQJViCZuCOQ4qdwGG3jtZGC61DAxrKwU9myAs+gsEBKpYL2NofQtI5JM91q9wYBaMzKOODpZvQkUTp3LPw3O/hbMTInB5sJUBx4gWETgfRcYpufgqiUIJVXfAsyxoqTabax8c28g9QPFFAT8YUFQchzglYxWDEMBQzON65b3XfQW60tbmBHxQbzGTZWrE0REPlsk2887BOhXpRF4lmkH0XibaIO23E7Tp4sUomd5BTYF1PUJ7Fa7xRf7w8IPir5JZEGob2qP0Huu0D9KIUMgElsYbKrLUk4ZfHQEHVHu6CGLcpKwwvO/WNb/emL9bCgaDyfGv3ka5695mMjlnnyFAc5TaJDFKZk0wtGZXYHps2aekKV2n33W8+eftDDoAuXn/j5uanH80qZ2zhh4ehrfSbphPDSSVgDKAMrIbJ077rNEwsjP/V3amz124CoP8wXV0MJsPq7e7eoyUTt3ylYuhUQmYZVE5gIgD3hlPrBMubv6zeAPAvpic4X7ry0mXBxGvW5rU8t+OpUsiN2TdGr7mO+eDB+hdPcP4T4ke64EtZvpYAAAAASUVORK5CYII=",
@@ -1146,29 +1122,9 @@ let data = {
                     "item_title": "pdm-project/pdm: A modern Python package manager with PEP 582 support."
                 },
                 {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACrElEQVQ4jW2SzWucVRTGf+fe9847SW2n+WioIdZkJkzGWLMsQvBjpRv1H1BcqSB166aUbgQXLkpEEGnF7ty5Edw0orULtS5DjNOZ5qvEKkMzEUuS6bz33tPFvCNj6LM653LO8/A85wpHUJmbW0QKbwMvAU8BCHpXkZshhK+2mmu3BudloC5UagsfI7wvIsOooqoKID2gqvuqfLFeX7kAdPsEBmZdea74beLcKxoj+R4iPf7BXozBZ9n1jdudN+BOZgEtV5/8pJAW3/JZ90ZU/UiF0yAnVbWpUVvAMLASo7+oUYuFQvrqiRFT2NttLctUtXouleIN62whZNm19dur7wLFiZmzpdbmahvQyWr15L2Dg312dg5n5s5+6lzhvPfZQ59lLyapce+IkSGNkSjaASzQaW2udvrh3Gs07ud2LUqmMVhrzLA4+55RNS+IqsYYO91u+AwIvVz+F3C/DkEffh5i3FdFwSwaEaYUBKT950Z9Ox+MgA4QaL+/22xuCWzl708bwGkv6mMj5XLxiPJRCJOTRYXx3pw6A9wRVRUjpZIZej5Xso+xkAB65lhp0YhM5H9k3ajqrxgD8MAm5sp0tVrLczhqwZ+ZfXbeJckSoGJEUH42MYQvUZXgw5Kq3nRu+I/KMwvLM9X5c/3tqXLtuUpt4WuXyC+CzANRo4audq/Yf9r3d0pjp0atTT7M/OGbxpg9VE5nofPNv+32HsDQ+MgTqXVXRSRV5dAmNo3eL2036tekf7JKbeEngbEY/QcKDzYba7/9Z2B6ulhJj2+LkQljLD5k1zfq8XVY8yY/WVivr7wcNf5oE/e9Mcmt0dnZE/398TR1COMi4n3wlzfqq6/BWheIdiCouLfb+u742KllVP/+q+l/gHYAONgdkdHRxIbgL202fr+aiwLwCG7VPT6fvRxuAAAAAElFTkSuQmCC",
-                    "href": "https://github.com/langyoushipin-fabu/91av",
-                    "item_title": "langyoushipin-fabu/91av: 狼友视频最新地址发布页"
-                },
-                {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACI0lEQVQ4jV1Su27qQBDdHa9tFis2QkAKJBSlSpMiUhoUJQ0SBQ1UdHSu+AIkvoLHB/ANKVKnSxT6SGmSKI0psAQIMPbaM7fYXMS9px2dmfMYHkUR+wsi4pwTEREJISzLYifY7/ecc8H+BREhohBiuVw+Pz9LKQEgTdNisViv1xFRENF/HM45Y2w8Hm82m8VisVqtDMNgjA2Hw4eHB6HHGoioCYgYhiEiSimzLDMMY7VahWEIAEIrPi7WHhhjuVzu4+PDcZxisSilJKJcLkdEgogMw9DSOedZlgGAZVlEZNt2HMdXV1eXl5fX19fVavVwOIBt25+fn/P5XEqZJIlt26ZpPj4+BkGQpunt7W2z2SwUCpVKxbZtRBQAcDgcnp6ebm5uPM/7+vqazWZvb29SSsMw1ut1GIaNRiNJEqUUAAhEdBxnPp+PRqNWqzWdTn9+fjzP0yJd1/3+/l4ul67ranu/sUopX15eXl9fAcDzvCzLhBBpmjqO4/v+drslIgBARIjj+OLiwvd9xphlWaZpat9KKdM07+/vlVI6QP0HwDlXSrXbbd/3oyjKsoyI4jhGxG63W6/XkyQBgGOnv8Vtt9tOpyOEmEwm5+fnrusKIXq9XhRFp80SEWge5zyO47u7u1qt1u/3B4NBtVpVSh0LPV4ArUxjt9uVSqVarVYulzebzfv7u87+9Mf4fr8/nmOMBUHguu7Z2VkQBPl8vlAoHAma8wc1pi2xtdVM3wAAAABJRU5ErkJggg==",
                     "href": "https://p.kqysw.com:66/1/main/%E5%BD%B1%E9%9F%B3/%E5%8A%A8%E7%94%BB%E7%89%87",
                     "item_title": "动画片 | KQYSW"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADH0lEQVQ4jW1SQUwTCRT9f1o602lp4rROE5tWXZvVRFKL0URozC6XVcNF90A0IRq6xJJoQrzIxYMajSF4kJvgRUiMCzWRzRLT4CZL5AALG1DspjXANlJsaQdwZhwKbel8D1pCo+/0/89/L++/fIAdmJiYaAiFQiNExMF3EH337khjY2NMluVd5ZmhXGSzWWtHR8ewsvbxmLSyApFI5O+d5HQ6va/9ytURA+IPFqt1PhwOzwAAMOWFSCTSGo/Fve+TSXz4sOf62NjYaUVRBCLiFUUR2traBpLJpHtjYwOnpqYayjxjuXj6dKD1k6bh19Z08eKlIaPRWDQYDLrZzEE2K9kAAFRVBbPF6qsQUFXVUVtbe4CICBGRiKhQKLD5fN6EiKiqKiEiEBEVikWUJMldIbC0tOQtFreqDtccQt7MAyLizMwb2NoqIQDAwUNe5FgOHA4Hjo6+Al3Xt7NjAADGx8dP+o7sN/T03KP/FxJw4UIT3bx1GRgG6dyvAbhx4xqtazkIBs/Tb61ngWXZXIXA6uqq69Tpg6DlYqioMjx4cB+PnxBAEKx4pvFHePasH2PxOHxIv8ZfzniA49h8hUAgEHgx/OdsSVqJkSjugj2uavrr5SSsra3TH0P/gl1kyG4XwGjKUv/jUairqxsuCyAAABEZg8HgSPS/mZ9tVguW9BIsJrOQ3ywAwzCwd58IRoMJdL0I2rouDz1/fszj8Sxsh5jJZNimpqYnNEDM7Ozb45ubm2ZTFYumKpYAAFdX1onnSXO5XMn29kuPOI7LVDj46sI0PT19VBAEOZVKeTo7O/slSXJ6vd54c3PzTZ/P948sy9V2uz0hiqL2zSMhYgEAJgAAlpeX8+8XF3lN0wgRHX6/f9TpdGai0WjD4ODgNQAIVoS4wwWfSCR+CofDd1OpVLWiKDg3P+/o7e39vbu7+87lUGhot7i7Gr6HTCZzYHJy8klfX59WX1+vWywW4nle5y0Wstlsut/v/9TV1XV7bm7ORkTbj7R9gtPpXCCioCiKAS2XO19TU2MvlUoMIpLb7c62tLTcdrvd6S/Xol7mfQZ6o2rBK/1uiAAAAABJRU5ErkJggg==",
-                    "href": "https://subs.kamigami.org/",
-                    "item_title": "诸神字幕组"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAC0klEQVQ4jQXBT2gcVRgA8O97782b2Zmd3XQzm067NlhQQSL1EChUsZVKtfRQtKWnHiSHpqBI6aF3IT304D8sopcKBSNCpRUPFRQ8hMgiStqSljZJ0012YUkCZczuZDIz78/n74eWCObn6elTCkMWRRCGtLICjoPVKuQ5uC5GETUa8OQJAMDJkwLW1ujmTdZqQaNhl5YgSRgAINL+/bC9DZubm4ztyTIWhtDr8dFRYVdX2eTkdLs9OTt7EVFb+4WUi5zfSBLG2IbjnPL92cFgYt8+OH2alGKACOvrwePHl8ry3zQV29vN4fDR7q4whpVlJ883yvJXoh/6/dsLC9p1BSqF1n6JqLX+2vdPlOW8EFtCHK1WPy6KRc6Jsb+kNIiNtbUTnAsMgiQICqWu5/kKYx95XsvaD8uyYUyb80dC3B0OlTGv+35laoqIGKbpb7duHSqKhUrlZa3/GA6Paf2a1pd3d09pfSnPZzzvQhi+x/nd5WUQglkpjx8+/EatdlbKJc4J0QG45nlt131XqTeNeV+p37Osm+ezDx9iq8VAyjiOf1HqsyyziEjUYWzU2ouVynXP22PtKmPnPO8Tx7lx5gwVBcM4NiMjkOdntX7VmE3GfpTyp52dt4z5h/MM8ajWmbWh7y+02/mzZ4KaTRwbG5TlVLV6WeuvXPeY1hGRJTpuzNth6BFVAT7V+pX797+Tktl791iSzERRF+Cq73c5/zbLOpw/4PwdY77Psrk0/aAojgD8eeXKS+PjgjvOg17vmyz7XKkXlVrk/A5jt6U8aMwBY36WcsSYeSEipZgxVmsBUnYRDyGe4zxCrLju+SCoG3NnMCCi/xznSL0+VpYz9bpNEuz30Swv09ycHh93ez21s+NY293awiA4EMem2eT9/t/r6y3OX9jYMLUam55GS4SdDhDZSgWNsZ0OT1OIY1uroe9TmrLnzwHAZBnbuxcnJv4HXF12OsxiyXsAAAAASUVORK5CYII=",
-                    "href": "https://youlegong.com/sirbao.html?ivk_sa=1024320u",
-                    "item_title": "游乐导航-最优质的BT、磁力资源 | BT搜索 磁力搜索 云盘搜索影视APP 在线影视磁力影视 种子搜索 无损音乐 电子书 ebook 资源采集站"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAClklEQVQ4jU2RS08TYRSGz5n5ZjqltKUtF7lWKjhokFCiGCFRF8bERFLd6daw9g8YE/kDxI0m9QcYd94SJbIQTCSEBGMEIULbGUASubSlWKal833fcTGaeNbve877Pgc55wCAiFJKxhgA2JbFhYjH44jIGOOcIyIiEhEiohACADy1ZdnT0x8ijbFq+cjw+x3HSSaHBgbO/e8BzrnrulJKO5d7PDm5vrZGu/tElE4/29jcTD998mVxkYhqtRrnXAihAAAAkuDP37y7cvtOT28vhEP5QoEhdXV2Xrt77+PcvFMuq6oKAETEiIgxlsva8Zam/pOtn6amilvbC3ZW+qMvp2dvXh012zuWVlYuDg97wZjn+7Wz09neml1dfT1+/5Yrc11nXpxPwaP09MPaqbaWTD5PRF5pxUNUXxeoIWzMLyQrohIOaYYKB9vQ2v82u18l16/78N8oHtDuRGIrm/X3JNyW6HJycDw98WAkHgn4bvS1rWQss8/01hMRcs6llJqmfZ6bW1v+fnlk9ET/2QAAlEpf7e1c7ofO2M2xMdd1FUX5+wciIimZps3OzKyvZ3oTiaaW5r2dPcu2Io2xVCrl1QUPKOccFMU7pyLu5vNL35acimP4fKZpdnV0AEkAkOTRARRCyMPfQBIAJZCuaRAIABegMQA4Oq4d1YipGNJVQkACRoDVV++pUCCfDtVaBUGWHQKiYDB8aWi22cz8LHDAXKFiMHXiejdDBZVYAziOXh+U+jGSxGhUIuCRw+qDzGe0RkMF5/hCpxbxa0ICcs4VIQrFA9u2FF0XrqvpmuEzDkslV8qNzU1EHBxM9pmngaSQxACAdF0P1AXCYb9h5ItFp3rcEIm6QgQZ0zSmKGos0iCllJIUBf8Ay0Jru5U535IAAAAASUVORK5CYII=",
-                    "href": "http://www.sssoou.com//",
-                    "item_title": "telegram中文搜索"
                 },
                 {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC9ElEQVQ4jV2TTWhcZRSGn3N/MjMx5mdi0kZKI80P6kKJWmKs8S9CxYpCXYoiSC0tIroq2IUjbgrFQne6EYRQDKW40I3SdqF0EUMSTUI7JlibNNE0TTrp5M7kdu7c+7qZkdqzejk8H9853/u9Rq0kOWaW1PRQAq8qYbc5GAmricN53+yne1nv7obCsI9U6tSVudmR6clfM38vL5EoovuhXgaefPpDSRPAcTP7uX7GJJmZSdIwcO7336Y7Tp/4TMFWMQ6CEjfXVrlzJ+T++zLOW+8dcY5+dKwKfGBmX+VyOcczM4Vh2AN8t7yy0n527EyltaPL797zsLsdlllY+JOdO3fQ1trExtrNaGF+3u3r7/8yiqJrvu//6AB4nncCaD/zzdeVsdFR/+rCHwS3b9HS3GQH33zDBocGmZmaYvGvBe/7c9/GShI8zzslqQlJj8dxXJYUn/7iZPz6/heTMNhMdE8dOfROPPjIruSlvY8m+cuzVUmqVCpve8CImWUAPTP8PMFWgYnxcbr39Kq9s9NmpiZpaEhr37Mv2KWLF4i3ypRL2wIEHHCAXjMTYNn2rKWbs7o0Pmmzc3OWSqVZvL7C6NiYOQ1pSze16OjHxxh4aq8L4Pt+j1O3EpDrehrZN2QWljSfv4zrekhVos11+nd1KZfL2buHDlO7HcA1SceBz4G4miRuYfGq2uJtJ8p2aNs8yziQKQcEQYmwJZs0tz1gvuclZuYAPzjAL0AMOJ7jWOOOB2018bR+u2RBsST8Ri1vhaw7KbV3dlmD71NfGbhgklzgIvCcpKqZubc2NylsbFAOAltbXSGOKhp++RUy6TSSEjMz4AYw4JhZDHwCVGtjVbOtreb7PvMzE+rb3aXHBp5gq1gEsBrvAJ+a2Q0kObU8vF/3fDsMo3z+SlQJi7FUjReXlqr5fD4qFAp15GQ9Q9wtJO1PkmS6TgVBoI319f8+U6VSuSbpcI01ag/xvzhLagQOAq8BPTWbrwPngbNm9k89gAD/Ah/Lu7htjeb6AAAAAElFTkSuQmCC",
@@ -1194,11 +1150,6 @@ let data = {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACaElEQVQ4jY2SP2gUQRSHvzcze5c977jDiBhQTGEngqIBAyIkRYKNIJggYiOCImprJXiWNnYiEaJoIXIKgiBIIImFqGCMQv7YiWIjGjS62c1lb2fGYs0ZG8kPBh7vzbz38XsDqxqZCrg7f47R6V4Ahhq6XVuNR6d7uTt/jpGpYLUk1L2CK7Dt6C4qlXe00gWa8RFO7X7OWo2+O0DHhkcEhU1E0W4+P5yBy0j7wu23NaR4g7B8jJXkO5kdwuvX+Rjbg9EPKJY2srx0H79ylpN7FnOCay9CNtXqoI7jfQWhig7AWbBZAoA2JZQG2wLPT0QicPdYWKwbOqtXqXReIPoB3iV4iXCpQxDAAODsL6z1gEIwIFupdF7ESyjcmY/RgaLVOoxTrwBoWk+HFirWAxBpaecAlNtPEDzGtaxB6RKt9CfdXyfp68tYjyYnJ/m4eQVjqgbwKBE+dIU0GgnLu8bw3rOSHOL03rzhzTeGQvgUpSCcGeBDV4hxAniD9wIIsU5RPQGFrB/vwTY7crOAxlyRNOhHBOKegDhLqToBUH+gPLXE8Kk7JUsnyLJxPreW28jzX5tk2ThZOsGn7pRakpPnrkpulCpp6uII5wZ4MjtIvS8Dcrp6X0ZpdpBwboC6OFSp/UsNIDjvCXfEAAwP2zV2+Xa0Nl94G5Ps9IAYnE0ICkXi9/005l7ypaDYYH17hauKtBBrYUvqiKWXICjisiWD97coV88T/RgjyRKqrXzXy/LPe4yDqoMEj9ElylVYXLiuOXjiGcpqUNuBAHD/PaIsyDeayQ2+L176O2ZkqoQpa9ajbMlyZl8C8BsqkQfT9fYhAwAAAABJRU5ErkJggg==",
                     "href": "https://www.bilibili.com/video/BV1X44y1T78q",
                     "item_title": "「Chillhop」每天都是星期天 3 ☕️_哔哩哔哩_bilibili"
-                },
-                {
-                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABhklEQVQ4jZXSP0iUcRgH8M/vvffULIQjU5SIWlys4bCg7YIKgpYKAonWiDBoqqkghIKIxohyazHStcIhiChoqAazhgYnMzVTDgk9r7tfw5ueUMs9PMMDz/f7/P2G+FBTljQHbxDChm/NbFYLjThVJ0/XFlyFHxSoskykg3aW+C21XXnJzVGzZT8X9XQbOurwgFPDDu51/RypJy+MffDovJ1dxDHTt6Elp3jgb5t3N2B/rzghvjJ0BKZviU8lanIJjF/0cVJ8DCMv9ffa10kLebsLkM9Rl2Zjh2Dkja9XvH0Nx/rNrXg+pXCSYLUilwghW5oQJMGzTyYmtW1zb9DgcVfH9XQ4cYjE+y8mZzavRD2q1d057doFFulmzsyyswNG7tLq/rDLo2LMCDnVGpTX2ME8C1Th8ywztJr6BtUaidSqQrtLJaU+vrNOJDpTVNzDLypKfRZWdLRREeID8uxihTIpkUAn6/99XEKNeWK20YZAlkAOrLJGPRsps/iPyupb4tgANK3WP/AcfVDZ7aoLAAAAAElFTkSuQmCC",
-                    "href": "https://cn.pornhub.com/view_video.php?viewkey=ph604ed17020676",
-                    "item_title": "Japanese Girl"
                 },
                 {
                     "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACx0lEQVQ4jZVTSUiUYRh+vm3mXzTRphBtKpc5VCLRgljkMehg0aIZdZGiSycrOsYQHpIoWg6R0AZFB4sQgiIijGgz0UKdJpIyJVJ0xqZl/P/5v6VDGUQF9tyed3nel5fnBWaJuDH0VVNTe//27Vsmksn8sWPHXAAgsxUAgKGWlkpaWhpku7qOIhzurrp+/ST7KUL/IjYTMzP89NOnqaVbt2YXTU7Op5S+eJ9Myv9Z4A8YY8KkZufOBS+Gh5dwzrG6pKSv69q1SROP05JHj1Z89ry5y2OxxyUFBfL+wMCazJcvBMYQGQQ/tjMm4HZ+fiUBbmazWffN1NRlAzRfiEZdT8pLMgiWac6XrKmuHrv38uUlmcstsG172g6FfGMMJYSAj09MOEpKYTxPpTKZHXV79pyo8v1RP5ebT4z5uq6m5sPd3t4C3/c5KDVVZWX7dmzc2DmQSFiW42iey+WiSqmQnZf3zZfSfT08fHCOEHE/CCJ54fBQ27NnXu309FIp5bwQ5zJSWPhqf2NjeuYOXClVrgFTEY1eHh0fX5XKZLZ99v1RoxQRodAHtLfr1ObNpdoYpoIAD3p7b4Rra6eN1qzAddPcl7IcjEEq1b2wuPjx4Lt3V/qHhg4YQgxnbAQAPN9fJLU2rm2PLIxEznhSSkYp55ynuR8ElUxrYjGW6WttvV24e/fhT1NTMRIOE8H5CACjlCoHIcS2rMFEZ+cpAuhfZpFSLmaMBZYQEyQW84uLio5z11WUUi2AtwCI1rqCEKIdy/rY0dBAsHKlAMAAMA5K1zuhkJxMpxMAULdhw8Wxq1efa2PE21QqSQBVQcghS4gjhY4z2tjRoQCo2TmtrS2/59w55xf/x+8Q/J4gAMidlpai/rq6J4Nr1/YN1tdv2tvTI/7V/PtUgCTicYGHD8/zTGZXVikIIcAs676ORM469fW3ypqbvZn67y4kRmaBwgtDAAAAAElFTkSuQmCC",
@@ -2957,13 +2908,58 @@ const cancalDebounce = debounce(getWindowInfo, 500);
 window.addEventListener('resize', cancalDebounce);
 
 
-// 联想词 https://sugs.m.sm.cn/quark?t=w&uc_param_str=dnnwnt&scheme=https&fr=android&q=%E6%88%91%E5%8F%AF%E4%BB%A5&_=1658826361297&callback=jsonp8
-xhr = new XMLHttpRequest();
-// GET 请求https://sugs.m.sm.cn/quark?t=w&uc_param_str=dnnwnt&scheme=https&fr=android&q=%E6%88%91%E5%8F%AF%E4%BB%A5&_=1658826361297&callback=jsonp8
-xhr.open('GET', 'https://sugs.m.sm.cn/quark?t=w&uc_param_str=dnnwnt&scheme=https&fr=android&q=%E6%88%91%E5%8F%AF%E4%BB%A5&callback=jsonp8');
-xhr.send();
-xhr.onreadystatechange = function() {
-    if (xhr.readyState == 4 && xhr.status == 200) {
-        console.log(xhr.responseText)
+$search_input = document.querySelector(".search-input")
+$search_suggest = document.querySelector(".suggestion")
+
+// 搜索框聚焦的时候，显示联想词
+$search_input.addEventListener('focus', function() {
+    $search_suggest.style.display = "block"
+})
+$search_input.addEventListener('blur', function() {
+    $search_suggest.style.display = "none"
+})
+
+function suggestion (data){
+    let data_bady = data["r"]
+    console.log(data_bady)
+    $search_suggest.innerHTML = ""
+    // 创建一个ul
+    let $ul = document.createElement("ul")
+    // 遍历
+    for (var i = 0; i < data_bady.length; i++) {
+        let $li = document.createElement("li")
+        $li.innerHTML = data_bady[i]["w"]
+        // lianxiangci class
+        $li.className = "lianxiangci"
+        $ul.appendChild($li)
+    }
+    $search_suggest.appendChild($ul)
+}
+
+$search_input.onkeyup = function (e) {
+    // 如果输入框内容为空 清除内容且无需跨域请求
+    if (this.timer) {
+      clearTimeout(this.timer);
+    }
+    if (e.keyCode !== 40 && e.keyCode !== 38) {
+      // 函数节流优化
+      this.timer = setTimeout(() => {
+        // 创建script标签JSONP跨域
+        var script = document.createElement("script");
+        script.src = "https://suggestion.onmicrosoft.cn/quark?t=w&uc_param_str=dnnwnt&scheme=https&fr=android&q=" + encodeURI(this.value.trim()) +
+          "&callback=suggestion";
+        document.body.appendChild(script);
+      }, 50)
+    }
+  };
+
+$air = document.querySelector(".search-input-and-suggestion")
+
+$lianxiangci = document.querySelectorAll(".lianxiangci")
+$air.addEventListener('click', function(e) {
+    // 如果点击的是联想词
+    if (e.target.className === "lianxiangci") {
+        $search_input.value = e.target.innerHTML
     }
 }
+)

@@ -237,7 +237,7 @@ p {
 }
 .suggestion {
   position: absolute;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   background-color: #fff;
   color: #000;
   z-index: 1;
@@ -248,4 +248,10 @@ ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  line-height: 2rem;
+  margin: 10px;
+}
+li:hover {
+  background-color: #000;
+  color: #fff;
 }
