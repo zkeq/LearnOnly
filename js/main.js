@@ -2979,6 +2979,6 @@ function check_data(data){
         localStorage.setItem("data", JSON.stringify(data))
         getWindowInfo()
     } else{
-        console.log("faild")
+        Notiflix.Notify.warning("书签数据检验不合法，请检查数据")
     }
 }
