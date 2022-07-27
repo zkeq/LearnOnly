@@ -2944,7 +2944,7 @@ $upload.addEventListener('change', function(e) {
     // 创建一个新的请求
     let xhr = new XMLHttpRequest()
     // 设置请求方式为 POST
-    xhr.open('POST', 'http://127.0.0.1:8000/uploadFile')
+    xhr.open('POST', '/api')
     // 将 file包装成 FormData
     let formData = new FormData()
     formData.append('file', file)
