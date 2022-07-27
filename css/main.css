@@ -117,13 +117,7 @@ body {
 }
 dd {
   /* 居中 */
-  text-align: center;
-  max-width: 350px;
-  margin-left: auto;
-  margin-right: auto;
-  /* border: red 1px solid; */
-  overflow: hidden;
-  text-overflow: ellipsis;
+  padding: 0 20px;
 }
 dd:hover {
   text-overflow: initial;
@@ -151,7 +145,7 @@ img {
   padding: 2px;
 }
 p {
-  max-width: 340px;
+  /* max-width: 340px; */
   overflow: hidden;
   text-overflow: ellipsis;
   /* 行内 */
