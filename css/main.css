@@ -89,11 +89,13 @@ body {
 
 .btn {
   background-color: #222222;
-  width: 128px;
-  height: 46px;
+  /* width: 128px; */
+  /* height: 46px; */
+  padding: 0 50px;
   color: #fff;
   border: none;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .main {
@@ -202,10 +204,13 @@ p {
   .float-left {
     float: none;
   }
+  .btn {
+    padding: 0 25px;
+  }
 }
 @media screen and (max-width: 1000px) {
   #header {
-    padding: 50px 50px;
+    padding: 40px 20px !important;;
   }
   #app {
     margin: 0 auto;
