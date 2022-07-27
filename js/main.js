@@ -2883,6 +2883,10 @@ function make_single_data(item_list, index) {
 
 function make_data() {
     data = localStorage.getItem("data")
+    // 如果获取不到就刷新页面
+    if (data == null) {
+        location.reload()
+    }
     data = JSON.parse(data)
     data_bady = data["data"]
     let index = 0;
