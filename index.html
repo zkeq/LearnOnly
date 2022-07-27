@@ -2,8 +2,10 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>搜索</title>
+  <title>LearnOnly导航</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script defer src="https://jsd.onmicrosoft.cn/npm/notiflix@3.2.5/dist/notiflix-notify-aio-3.2.5.min.js"></script>
+  <link rel="stylesheet" href="https://jsd.onmicrosoft.cn/npm/notiflix@3.2.5/dist/notiflix-3.2.5.min.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="fonts/iconfont.css">
 </head>
@@ -25,21 +27,21 @@
           <li data-holder="隐私保护，化繁为简。" data-url="https://duckduckgo.com/?q=">DuckDuckGo</li>
         </ul>
         <div class="search-input-area">    
-          <div class="search-input-and-suggestion">
-            <input type="search" placeholder="微软Bing搜索是国际领先的搜索引擎" autocomplete="off" autofocus class="search-input">
-            <div class="suggestion live">
+          <!-- <div class="search-input-and-suggestion"> -->
+            <input type="search" placeholder="微软Bing搜索是国际领先的搜索引擎" class="search-input">
+            <!-- <div class="suggestion">
               <ul>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
-              <li class="lianxiangci">测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
+              <li>测试测菜市场顺风车水电费第三方第三方第三方</li>
               </ul>
-          </div>
-        </div>
+            </div> -->
+          <!-- </div> -->
           <button class="btn search">搜索</button>
         </div>
       </div>
@@ -51,10 +53,19 @@
     </section>
     
     <section class="footer">
-
+      <div class="update">
+      <!-- HTML !-->
+      <button class="update-button" onclick="upload.click()" role="button">导入我的<strong>Chrome/Edge</strong> 收藏夹</button>
+      <input type="file" name="upload" id="upload" style="display: none;" />
+    </div>
+    <div class="copy">
+			Copy Right © Zkeq in. All Rights Reserved.
+			</div>
     </section>
   </div>
   <script src="https://jsd.onmicrosoft.cn/npm/jquery@3.6.0/dist/jquery.min.js"></script>
   <script src="js/main.js"></script>
+  <script src="https://jsd.onmicrosoft.cn/npm/nprogress@0.2.0/nprogress.js"></script>
+  <link href="https://jsd.onmicrosoft.cn/npm/nprogress@0.2.0/nprogress.css" rel="stylesheet">
 </body>
 </html>
