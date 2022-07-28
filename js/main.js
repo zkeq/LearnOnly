@@ -2868,25 +2868,24 @@ const getWindowInfo = () => {
     // 清空 colHeightArray
     colHeightArray = []
     // 重新获取父元素的宽度
-    Notiflix.Notify.success("检测到窗口变化，正在重新布局")
     make_data()
 };
 
 
-const debounce = (fn, delay) => {
-	let timer;
-	return function() {
-		if (timer) {
-			clearTimeout(timer);
-		}
-		timer = setTimeout(() => {
-			fn();
-		}, delay);
-	}
-};
-const cancalDebounce = debounce(getWindowInfo, 500);
+// const debounce = (fn, delay) => {
+// 	let timer;
+// 	return function() {
+// 		if (timer) {
+// 			clearTimeout(timer);
+// 		}
+// 		timer = setTimeout(() => {
+// 			fn();
+// 		}, delay);
+// 	}
+// };
+// const cancalDebounce = debounce(getWindowInfo, 500);
 
-window.addEventListener('resize', cancalDebounce);
+window.addEventListener('resize', getWindowInfo);
 
 
 // // 联想词 https://sugs.m.sm.cn/quark?t=w&uc_param_str=dnnwnt&scheme=https&fr=android&q=%E6%88%91%E5%8F%AF%E4%BB%A5&_=1658826361297&callback=jsonp8
