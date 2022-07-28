@@ -2868,6 +2868,7 @@ const getWindowInfo = () => {
     // 清空 colHeightArray
     colHeightArray = []
     // 重新获取父元素的宽度
+    // Notiflix.Notify.success("检测到窗口变化，正在重新布局")
     make_data()
 };
 
