@@ -2879,7 +2879,21 @@ const getWindowInfo = () => {
 // 		}, delay);
 // 	}
 // };
-// const cancalDebounce = debounce(getWindowInfo, 500);
+// const cancalDebounce = debounce(getWindowInfo, 200);
+
+// const throttle = (fn, delay) => {
+//     //写个节流函数
+//      let last;
+//      return function(...args) {
+//          let now = +new Date();
+//          if (!last || now - last >= delay) {
+//              fn.apply(this, args);
+//              last = now;
+//          }
+//      }
+//  }
+ 
+// getWindowInfo = throttle(getWindowInfo, 1000)
 
 window.addEventListener('resize', getWindowInfo);
 
