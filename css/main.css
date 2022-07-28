@@ -231,6 +231,11 @@ p {
 }
 }
 
+@media screen and (min-width: 1600px) {
+#app {
+  max-width: 1500px;
+}
+}
 .float-left a {
   background-color: #fff;
 }
@@ -302,7 +307,7 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 10px;
+  margin-top: 40px;
 }
 .copy {
   display: flex;
