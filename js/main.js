@@ -2922,10 +2922,10 @@ $upload.addEventListener('change', function(e) {
     let formData = new FormData()
     formData.append('file', file)
     // 查看文件大小 如果大于5M就返回错误
-    if (file.size > 5242880) {
-        alert("文件大小不能超过5M")
-        return
-    }
+//     if (file.size > 5242880) {
+//         alert("文件大小不能超过5M")
+//         return
+//     }
     // 进度条开始
     NProgress.start()
     Notiflix.Notify.info("上传书签中...")
